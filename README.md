@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadeInMood
-- 👀 I’m interested in FIVEM
-- 🌱 I’m currently learning LUA
+- 👀 I’m interested in FIVEM and Roblox
+- 🌱 I’m currently learning all type of other code language
 - 📫 How to reach me moad.r07@gmail.com
 
 <!---
